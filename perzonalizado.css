@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .content {
+    flex: 1 0 auto; 
+    padding: 20px;
+  }
+  .footer {
+    flex-shrink: 0; 
+    padding: 20px;
+  }
+  
+  
+  
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    font: 16px Sans-Serif;
+  }
+  h1 {
+    margin: 0 0 20px 0;
+  }
+  p {
+    margin: 0 0 20px 0;
+  }
+  footer {
+    background: #ffab00;
+    color: white;
+    text-align: center;
+  }
+
+  .mar {
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 20px;
+  }
+
+  .text{
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .frikada{
+    background: #C32BAD;
+  }
+  .footerf {
+    background: #F56FAD;
+    color: black;
+  }
+
+  .mar2 {
+    margin-top: 15px;
+    margin-left: 70px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  .col2{
+ padding-top: 30px  !important;
+  }
+
+  .card2{
+ padding-left: 10px;
+ padding-right: 10px;
+  }
+
+  .card3{
+    padding-left: 40px !important;
+    padding-right: 40px !important; 
+  }
+
+  .info{
+    margin-top: 15px;
+    margin-left: 400px;
+    margin-right: 25px;
+    text-align: center;
+  }
+
+  .equipo{
+    padding-left: 90px !important;
+    padding-right: 90px !important;
+     }
+
+     .botons{
+     text-align: center !important;
+       }
